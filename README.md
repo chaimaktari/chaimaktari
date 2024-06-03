@@ -1,4 +1,6 @@
-# KTARIChaima 
+
+![Uploading Noir Blanc Minimal Simple Moderne Typographie La Fin YouTube Intro Vidéo (1).gif…]()
+
 Hi 👋, I'm Ktari chaima
 Software engineering student at ESPRIT. My journey in this field is defined by a deep passion for software development and an unyielding drive to push the boundaries of innovation. Specializing in software engineering,
 I thrive on tackling complex problems and crafting effective solutions. With an insatiable curiosity for the latest technologies and a commitment to excellence, I'm constantly seeking new knowledge and embracing fresh challenges. 
