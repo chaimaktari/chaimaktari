@@ -1,4 +1,4 @@
-![Noir Blanc Minimal Simple Moderne Typographie La Fin YouTube Intro Vidéo (1)](https://github.com/chaimaktari/chaimaktari/assets/116182321/14fa0105-2ffa-4b1d-b5a2-49c4e5bda12a)
+![Noir Blanc Minimal Simple Moderne Typographie La Fin YouTube Intro Vidéo](https://github.com/chaimaktari/chaimaktari/assets/116182321/b7befb7e-8318-4b87-a7ee-e6a8c8b39e84)
 
 
 Hi 👋, I'm Ktari chaima
