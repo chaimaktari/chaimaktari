@@ -1,6 +1,4 @@
-
-
-[Description du GIF](C:\Users\ktari\Downloads\Noir Blanc Minimal Simple Moderne Typographie La Fin YouTube Intro Vidéo (1).gif)
+[![Lien vers la conception Canva](chemin_vers_l'image_sur_github)](https://www.canva.com/design/DAGHCVE43KA/3W7SaWILCHFS1TYBo5TC8A/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19fQ)
 
 Hi 👋, I'm Ktari chaima
 Software engineering student at ESPRIT. My journey in this field is defined by a deep passion for software development and an unyielding drive to push the boundaries of innovation. Specializing in software engineering,
