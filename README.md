@@ -19,8 +19,8 @@ Driven by the desire to make a meaningful impact in the ever-evolving landscape 
 
 [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=chaimaktari&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/chaimaktari)
 
-Vous pouvez également consulter mon dépôt [Coconsult](https://github.com/ImenHadj/Coconsult-frontend) pour découvrir mes contributions supplémentaires.
-
+For inspecting our ERP project :
+ Coconsult-frontend repository in [Coconsult-frontend](https://github.com/ImenHadj/Coconsult-frontend) as well as the backend part Coconsult-backend  [Coconsult-backend (branche chaimaRh)](https://github.com/ImenHadj/Coconsult-backend/tree/chaimaRh).
 ---
 [![](https://visitcount.itsvg.in/api?id=chaimaktari&icon=0&color=0)](https://visitcount.itsvg.in)
 
