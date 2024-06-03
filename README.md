@@ -3,7 +3,7 @@ Hi 👋, I'm Ktari chaima
 Software engineering student at ESPRIT. My journey in this field is defined by a deep passion for software development and an unyielding drive to push the boundaries of innovation. Specializing in software engineering,
 I thrive on tackling complex problems and crafting effective solutions. With an insatiable curiosity for the latest technologies and a commitment to excellence, I'm constantly seeking new knowledge and embracing fresh challenges. 
 Driven by the desire to make a meaningful impact in the ever-evolving landscape of technology, I'm determined to continue my path with resilience and passion
-📫 How to reach me chaima.ktari@esprit.tn
+<br>📫 How to reach me chaima.ktari@esprit.tn
 # 💫 About Me:
 🔭 Im currint student <br>🌱 Learning about DevOps and cloud technologies to enhance my software deployment skills<br>👯 Looking to collaborate on projects related to web applications<br>💬 Happy to chat about web development, software architecture, or any tech-related topics.<br>💡 Passionate about continuous learning and staying up-to-date with the latest trends in software development<br>📚 "Currently diving into the world of artificial intelligence and machine learning, exploring tools
 
