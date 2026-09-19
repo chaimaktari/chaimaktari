@@ -1,11 +1,12 @@
 ![Noir Blanc Minimal Simple Moderne Typographie La Fin YouTube Intro Vidéo](https://github.com/chaimaktari/chaimaktari/assets/116182321/b7befb7e-8318-4b87-a7ee-e6a8c8b39e84)
 
 
-Hi 👋, I'm Ktari chaima
-Software engineering student at ESPRIT. My journey in this field is defined by a deep passion for software development and an unyielding drive to push the boundaries of innovation. Specializing in software engineering,
-I thrive on tackling complex problems and crafting effective solutions. With an insatiable curiosity for the latest technologies and a commitment to excellence, I'm constantly seeking new knowledge and embracing fresh challenges. 
-Driven by the desire to make a meaningful impact in the ever-evolving landscape of technology, I'm determined to continue my path with resilience and passion
-<br>📫 How to reach me chaima.ktari@esprit.tn
+Hi 👋, I'm Chaima Ktari
+Computer Science Engineer, graduated from ESPRIT, with a background in software development and a strong interest in building practical and scalable digital solutions.
+My experience covers Full Stack Web Development, backend and frontend development, databases, APIs, and software engineering. I have worked with technologies such as .NET, ASP.NET Core, Java, Spring Boot, React, Angular, Python, SQL Server and MySQL.
+I'm also interested in Artificial Intelligence and enjoy exploring how modern technologies can be integrated into real-world applications to automate processes, improve efficiency, and solve complex problems.
+Curious, adaptable, and solution-oriented, I enjoy learning new technologies, working on challenging projects, and turning ideas into functional applications.
+📫 How to reach me: ktarichaima6@gmail
 # 💫 About Me: 
 🔭 Im currint student <br>🌱 Learning about DevOps and cloud technologies to enhance my software deployment skills<br>👯 Looking to collaborate on projects related to web applications<br>💬 Happy to chat about web development, software architecture, or any tech-related topics.<br>💡 Passionate about continuous learning and staying up-to-date with the latest trends in software development<br>📚 "Currently diving into the world of artificial intelligence and machine learning, exploring tools
 
