@@ -2,11 +2,16 @@
 
 
 Hi 👋, I'm Chaima Ktari
+
 Computer Science Engineer, graduated from ESPRIT, with a background in software development and a strong interest in building practical and scalable digital solutions.
-My experience covers Full Stack Web Development, backend and frontend development, databases, APIs, and software engineering. I have worked with technologies such as .NET, ASP.NET Core, Java, Spring Boot, React, Angular, Python, SQL Server and MySQL.
+
+My experience covers Full Stack Web Development, backend and frontend development, databases, APIs, and software engineering. I have worked with technologies such as .NET, ASP.NET Core, Java, Spring Boot, React, Angular, Python, SQL Server, and MySQL.
+
 I'm also interested in Artificial Intelligence and enjoy exploring how modern technologies can be integrated into real-world applications to automate processes, improve efficiency, and solve complex problems.
+
 Curious, adaptable, and solution-oriented, I enjoy learning new technologies, working on challenging projects, and turning ideas into functional applications.
-📫 How to reach me: ktarichaima6@gmail
+
+📫 How to reach me: ktarichaima6@gmail.com
 # 💫 About Me: 
 🔭 Im currint student <br>🌱 Learning about DevOps and cloud technologies to enhance my software deployment skills<br>👯 Looking to collaborate on projects related to web applications<br>💬 Happy to chat about web development, software architecture, or any tech-related topics.<br>💡 Passionate about continuous learning and staying up-to-date with the latest trends in software development<br>📚 "Currently diving into the world of artificial intelligence and machine learning, exploring tools
 
